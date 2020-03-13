@@ -45,6 +45,13 @@ Syntax highlighting can be used with triple backticks, like so:
 /* Some pointless Javascript */
 var rawr = ["r", "a", "w", "r"];
 ```
+```java
+public static void main(String[] args) {
+      System.out.println("Hello World");
+}
+```
+
+
 
 Use two trailing spaces
 on the right
