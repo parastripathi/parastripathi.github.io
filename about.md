@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 
-Welcome to my Blog it's a work in progress, so hope you don't mind ;)
+I'm Paras Tripathi. I am 21 . I currently work at Engati.
 
-### Who
+Jack of all trades , tried a lot of projects in various fields in college such as Machine Learning , Computer Vision , Web-Application Development.
 
-### What
+"Be the person you needed when you were younger",
+I wish that this blog acts as a stepping stone for people to start their programming journey.
 
-### Why
-
-[parastripathi@hotmail.com]
+#####Contact
+Leave me an email at parastripathi@hotmail.com
