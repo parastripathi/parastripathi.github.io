@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my Blog it's a work in progress, so hope you don't mind ;)
 
-### More Information
+### Who
 
-A place to include any other types of information that you'd like to include about yourself.
+### What
 
-### Contact me
+### Why
 
-[email@domain.com](mailto:email@domain.com)
+[parastripathi@hotmail.com]
